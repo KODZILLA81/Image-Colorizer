@@ -29,5 +29,5 @@
 
 ### Github Repo
 - <a href="https://github.com/jantic/DeOldify"> DeOldify </a>
-- <a href="https://github.com/PySimpleGUI/PySimpleGUI-Photo-Colorizer"> PySimpleGUI-Photo-Colorizer (With Webcam) </a>
+- <a href="https://github.com/PySimpleGUI/PySimpleGUI-Photo-Colorizer"> PySimpleGUI-Photo-Colorizer (With Webcam). </a>
 - <a href="https://github.com/Armour/Automatic-Image-Colorization"> Automatic Image Colorization </a>
