@@ -2,9 +2,9 @@
 
 ### Türkçe Makale
 - <a href="https://www.researchgate.net/profile/Selim-Aras/publication/271273693_Goruntu_Renklendirme_Teknikleri_ve_Uygulamalari_Uzerine_Bir_Arastirma/links/54c48bbc0cf256ed5a94fc5d/Goeruentue-Renklendirme-Teknikleri-ve-Uygulamalari-Uezerine-Bir-Arastirma.pdf"> Görüntü Renklendirme Teknikleri ve Uygulamaları Üzerine Bir Araştırma </a>
+- <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6830221&tag=1"> IEEE </a>
 
 ### Yabancı
-- <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6830221&tag=1"> IEEE </a>
 - <a href="https://ieeexplore.ieee.org/abstract/document/9793234"> IEEE 2 </a>
 - <a href="https://jespublication.com/upload/2020-110472.pdf"> IMAGE COLORIZATION WITH DEEP CONVOLUTIONAL OPEN CV </a>
 - <a href="https://core.ac.uk/download/pdf/151072499.pdf"> Colorization of black-and-white images using deep neural networks </a>
