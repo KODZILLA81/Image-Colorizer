@@ -16,7 +16,10 @@
 - <a href="https://sci-hub.se/10.1007/s10851-010-0192-8"> Image and Video Colorization Using </a>
 - <a href="https://sci-hub.se/10.1007/s11042-012-1246-2"> Application of the Extended Distance </a>
 - <a href="https://sci-hub.se/10.1109/tip.2013.2288929"> Based Image Colorization </a>
-
+- <a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Su_Instance-Aware_Image_Colorization_CVPR_2020_paper.pdf"> Instance-aware Image Colorization </a>
+- <a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Wu_Towards_Vivid_and_Diverse_Image_Colorization_With_Generative_Color_Prior_ICCV_2021_paper.pdf"> Towards Vivid and Diverse Image Colorization with Generative Color Prior </a>
+- <a href="https://ieeexplore.ieee.org/abstract/document/9512069"> Grayscale Image Colorization Methods: Overview and Evaluation </a>
+- <a href="https://ieeexplore.ieee.org/document/9345804"> Adversarial Edge-Aware Image Colorization With Semantic Segmentation </a>
 
 ### Seyit Yahya
 - <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6830221&tag=1"> IEEE </a>
