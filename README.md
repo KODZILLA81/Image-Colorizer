@@ -20,6 +20,14 @@
 - <a href="https://www.researchgate.net/publication/301817406_Image_Colorization_Using_a_Deep_Convolutional_Neural_Network">Image Colorization Using a Deep Convolutional Neural Network</a>
 - <a href="https://arxiv.org/pdf/2008.10774.pdf"> Image Colorization A Survey and Dataset </a>
 
+### Kaan
+- <a href="https://ieeexplore.ieee.org/document/7026123"> Colorization matrix construction with high compression efficiency for colorization-based coding using optimization </a>
+- <a href="https://ieeexplore.ieee.org/document/9531797"> Image Colorization Algorithm Based on Graph Signal Processing Using Two-Steps Image Segmentation </a>
+- <a href="https://ieeexplore.ieee.org/document/7046078"> Isoline Based Image Colorization </a>
+
+
+
+
 ### Github Repo
 - <a href="https://github.com/jantic/DeOldify"> DeOldify </a>
 - <a href="https://github.com/PySimpleGUI/PySimpleGUI-Photo-Colorizer"> PySimpleGUI-Photo-Colorizer (With Webcam). </a>
