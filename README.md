@@ -26,6 +26,13 @@
 - <a href="https://ieeexplore.ieee.org/document/7046078"> Isoline Based Image Colorization </a>
 - <a href="https://ieeexplore.ieee.org/document/9025670"> Image Colorization by Capsule Networks </a>
 
+### Seyit Yahya
+- <a href="https://ieeexplore.ieee.org/document/8980996"> Image Colorization Based on Texture by Using of CNN </a>
+- <a href="https://ieeexplore.ieee.org/document/7046078"> Isoline Based Image Colorization </a>
+- <a href="https://ieeexplore.ieee.org/document/6780140"> Image retrieval based automatic grayscale image colorization </a>
+- <a href="https://ieeexplore.ieee.org/document/8296884"> Representative pixels compression algorithm using graph signal processing for colorization-based image coding </a>
+- <a href="https://ieeexplore.ieee.org/document/9301791"> Learning From Paired and Unpaired Data: Alternately Trained CycleGAN for Near Infrared Image Colorization </a>
+
 ### Github Repo
 - <a href="https://github.com/jantic/DeOldify"> DeOldify </a>
 - <a href="https://github.com/PySimpleGUI/PySimpleGUI-Photo-Colorizer"> PySimpleGUI-Photo-Colorizer (With Webcam). </a>
