@@ -33,6 +33,10 @@
 - <a href="https://ieeexplore.ieee.org/document/8296884"> Representative pixels compression algorithm using graph signal processing for colorization-based image coding </a>
 - <a href="https://ieeexplore.ieee.org/document/9301791"> Learning From Paired and Unpaired Data: Alternately Trained CycleGAN for Near Infrared Image Colorization </a>
 
+####EnescCC
+YAPMADIM !
+
+
 ### Github Repo
 - <a href="https://github.com/jantic/DeOldify"> DeOldify </a>
 - <a href="https://github.com/PySimpleGUI/PySimpleGUI-Photo-Colorizer"> PySimpleGUI-Photo-Colorizer (With Webcam). </a>
