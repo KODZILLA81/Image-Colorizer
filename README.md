@@ -34,7 +34,7 @@
 - <a href="https://ieeexplore.ieee.org/document/9301791"> Learning From Paired and Unpaired Data: Alternately Trained CycleGAN for Near Infrared Image Colorization </a>
 
 ### EnescCC
-- <a href="instagram.com/enesgucuk"> YAPIYORUMKEE </a>
+- <a href="https://ieeexplore.ieee.org/document/6184773"> Colorization of gray scale images in lαβ color space using mean and standard deviation </a>
 
 
 ### Github Repo
