@@ -36,6 +36,7 @@
 ### EnescCC
 - <a href="https://ieeexplore.ieee.org/document/6184773"> Colorization of gray scale images in lαβ color space using mean and standard deviation </a>
 - <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4648487">Efficient Total Variation Minimization Methods for Color Image Restoration</a>
+- <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8965732">A Novel Approach to Image Steganography Based on the Image Colorization</a>
 
 
 
