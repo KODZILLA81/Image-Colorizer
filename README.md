@@ -29,8 +29,9 @@
 ### Seyit Yahya
 - <a href="https://ieeexplore.ieee.org/document/8980996"> Image Colorization Based on Texture by Using of CNN </a>
 - <a href="https://ieeexplore.ieee.org/document/6780140"> Image retrieval based automatic grayscale image colorization (En iyi makale) </a>
-- <a href="https://ieeexplore.ieee.org/document/8296884"> Representative pixels compression algorithm using graph signal processing for colorization-based image coding </a>
-- <a href="https://ieeexplore.ieee.org/document/9301791"> Learning From Paired and Unpaired Data: Alternately Trained CycleGAN for Near Infrared Image Colorization </a>
+- <a href="https://ieeexplore.ieee.org/document/8803677"> Single Image Colorization Via Modified Cyclegan </a>
+- <a href="https://ieeexplore.ieee.org/document/9864479"> Automatic Image Colorization using Ensemble of Deep Convolutional Neural Networks </a>
+- <a href="https://ieeexplore.ieee.org/document/9905295"> A Deep Convolutional Autoencoder Architecture for Automatic Image Colorization </a>
 
 ### EnescCC
 - <a href="https://ieeexplore.ieee.org/document/6184773"> Colorization of gray scale images in lαβ color space using mean and standard deviation </a>
