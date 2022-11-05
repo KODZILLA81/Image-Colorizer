@@ -24,7 +24,7 @@
 - <a href="https://ieeexplore.ieee.org/document/7026123"> Colorization matrix construction with high compression efficiency for colorization-based coding using optimization </a>
 - <a href="https://ieeexplore.ieee.org/document/9531797"> Image Colorization Algorithm Based on Graph Signal Processing Using Two-Steps Image Segmentation </a>
 - <a href="https://ieeexplore.ieee.org/document/7046078"> Isoline Based Image Colorization </a>
-- <a href="https://ieeexplore.ieee.org/document/9025670"> Image Colorization by Capsule Networks </a>
+- <a href="https://www.sciencedirect.com/science/article/abs/pii/S0167865512001894"> Automatic grayscale image colorization using histogram regression </a>
 
 ### Seyit Yahya
 - <a href="https://ieeexplore.ieee.org/document/8980996"> Image Colorization Based on Texture by Using of CNN </a>
