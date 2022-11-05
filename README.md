@@ -41,7 +41,7 @@
 - <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9545118">Gray Scale Image Colorization for Human Faces</a>
 
 ### ApoVpRo
-- <a href="[https://richzhang.github.io/colorization/](https://www.sciencedirect.com/science/article/pii/S2468502X22000389)">A review of image and video colorization: From analogies to deep learning</a>
+- <a href="https://www.sciencedirect.com/science/article/pii/S2468502X22000389">A review of image and video colorization: From analogies to deep learning</a>
 
 
 
