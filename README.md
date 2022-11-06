@@ -44,6 +44,8 @@
 - <a href="https://www.sciencedirect.com/science/article/pii/S2468502X22000389">A review of image and video colorization: From analogies to deep learning</a>
 - <a href="https://ieeexplore.ieee.org/document/9706987">Pro-CCaps: Progressively Teaching Colourisation to Capsules</a>
 - <a href="https://ieeexplore.ieee.org/document/9607633">Underwater Image Color Correction Using Ensemble Colorization Network</a>
+- <a href="https://ieeexplore.ieee.org/document/9929326">Spatially Consistent Transformer for Colorization in Monochrome-Color Dual-Lens System</a>
+- <a href="https://ieeexplore.ieee.org/document/9467808">Invertible Image Decolorization</a>
 
 
 
